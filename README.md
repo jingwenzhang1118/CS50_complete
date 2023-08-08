@@ -1,4 +1,4 @@
-# CS50_complete
+# CS50 labs and problem sets (complete)
 
 An computer science course taught by David J. Malan, CS50 teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python and SQL, etc. Problem sets inspired by the arts, humanities, social sciences, and sciences. 
 
